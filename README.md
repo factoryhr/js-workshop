@@ -1,5 +1,7 @@
 # JavaScript Workshop
 
+Configuration for usage of both CSS and SASS (SCSS), with extract plugins and live reloading.
+
 ## Foreword: What is Webpack
 
 Webpack is a front-end tool to build JavaScript module scripts for browsers.
